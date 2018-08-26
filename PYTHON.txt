@@ -1,0 +1,31 @@
+Python needs single quote and bash need double quote 
+
+print ('Test')
+echo "test"
+
+--- 'double'.find('s')
+>>> "TestTTing".lower()
+'testtting'
+>>> "TestTTing".upper()
+'TESTTTING'>>> 'pass'*10
+'passpasspasspasspasspasspasspasspasspass'
+>>> print ('doubl1\tme')
+doubl1  me
+>>> print ('doubl1\nme')
+doubl1
+
+In case if user inout is Number we will have to convert it to integer
+int ('1')
+1
+==================================
+BOOLEAN EXPRESSION
+True and False
+>>> bool ('bob')
+True
+>>> bool ('')
+False
+>>> bool (0)
+False
+>>> bool (1)
+True
+=================================
